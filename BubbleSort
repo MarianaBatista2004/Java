@@ -1,0 +1,11 @@
+#array
+	Size:
+		Empty.           [property empty]
+		NPositions.      
+
+	Order:
+		ordered.			[if !empty]
+		partialOrdered.		[if !empty]
+		Unordered.			[if !empty]
+		inverseOrder.		[if !empty]
+		fullRepetition.		[if !empty]
